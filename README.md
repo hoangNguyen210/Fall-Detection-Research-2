@@ -58,10 +58,9 @@ Project is:  _in progress_. Our goal is to submit to ISI Q1 Journal. Currently, 
 | 10     | Jumping          | 30           |
 | 11     | Laying          | 60           |
 
-|![Location of measure device](./img/location.png)|
+|![Location of measure device](./PICTURE/location.png)|
 |:--:| 
 | *Location of measurement devices* |
-<!-- If you have screenshots you'd like to share, include them here. -->
 You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8220/19/9/1988).
 
 <a name="d-p"></a>
@@ -70,6 +69,25 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 
 <a name="proposed-method"></a>
 ## Proposed methods :
+
+
+|![MoE_1](./PICTURE/MoE_1.png)|
+|:--:| 
+| *Mixture of Experts models for C1 dataset* |
+
+
+
+
+|![MoE_2](./PICTURE/MoE_2.png)|
+|:--:| 
+| *Mixture of Experts models for C2 dataset* |
+
+
+
+|![MoE_12](./PICTURE/concat_MoE.png)|
+|:--:| 
+| *Mixture of Experts models for C1 and C2 dataset* |
+
 <a name="result"></a>
 ## Result 
 <!-- | Data | Model  | Accuracy  | Precision | Recall | F1-Score |
