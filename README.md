@@ -38,14 +38,8 @@ Project is:  _in progress_. Our goal is to submit to ISI Q1 Journal. Currently, 
 
 <a name="introduction"></a>
 ## Introduction
-
 <a name="general-information"></a>
 ## General Information
-- Understanding the fearful outcomes that falling leads to, developing a fall
-detection system is essential than ever before.
-- We going to use [UP-Fall Detection](https://www.mdpi.com/1424-8220/19/9/1988) in this project and utilize both machine learning and deep learning on this data.
-- Enable to detect a precise fall detection system might significantly mitigate the risk of falling in the ederly
-- 
 <a name="dataset-description"></a>
 ## Dataset description
 - You can download UP-Fall Detection dataset in this [link](https://sites.google.com/up.edu.mx/har-up/) . This dataset includes over 850 GB of data from wearable sensors, ambient sensors, and vision equipment. 17 young healthy people with age ranging from 18–24 years old were invited to perform 11 different activities. Here is the summary of activities. 
@@ -72,39 +66,10 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 
 <a name="d-p"></a>
 ## Data preprocessing :
-- Related to the sensor data, we dropped all duplicate records and removed rows and columns having missing values. We also utilized the index of sensor data to query to vision-based dataset to gurantee 2 kind of datasets have same samples, this step is significant to combine these datasets in when compiling the models.
-- In addition, we also applied Standard Scaler and scaling each by divide 255 to warrant our dataset in small range. 
+
 
 <a name="proposed-method"></a>
 ## Proposed methods :
-- In term of sensor dataset, we proposed 2 machine learning algorithm that win a lot of Kaggle competitions : [XGBoost](https://xgboost.readthedocs.io/en/stable/), [CatBoost](https://catboost.ai/) and 1 deep learning technique : MLP. Here is some hyperparameters we choose for these algorithms : 
-
-| Models | Hyperparameters  | 
-| :-----:     | :-:          |
-|     XGBoost        | objective="multi:softprob", <br> learning rate = 0.5, <br> random state = 42,  <br> use label encoder = False, <br> # of estimators = 100 <br>|
-| CatBoost     | # of estimators = 500, <br>  random seed = 42, <br> learning rate = 0.25,  <br>      max depth = 12  <br>      | 
-
-
-|![Location of measure device](./img/SENSOR.png)|
-|:--:| 
-| *MLP model for sensor data* |
-
-- With camera based dataset, we take advantages of CNN2D. 
-
-|![Location of measure device](./img/CAMERA.png)|
-|:--:| 
-| *CNN2D model for camera data* |
-
-- Concatenating both kind of data :
-
-|![Location of measure device](./img/C1+C2.png)|
-|:--:| 
-| *Concatenaing CNN2D Model for Camera 1 and Camera 2* |
-
-|![Location of measure device](./img/S+C1+C2.png)|
-|:--:| 
-| *Combining Sensor , Camera 1 and Camera 2* |
-
 <a name="result"></a>
 ## Result 
 <!-- | Data | Model  | Accuracy  | Precision | Recall | F1-Score |
@@ -136,25 +101,6 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 
 <a name="#cc"></a>
 ## Conclusion and Future Work 
-There are some things that I need to do with this project in the future
-Room for improvement:
-- Solved the imbalanced issues in our dataset
-- Using more comprehensive architecture in an attempt to acquire higher performance
-
-To do:
-- Using the data augmentation method on minority classes
-- Utilizing a Mixture of Experts and a 3D-CNN model (in progress)
-
-
-
-
-
 ## Contact
 Created by [hoangng210a@gmail.com] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
