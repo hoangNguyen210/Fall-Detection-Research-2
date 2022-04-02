@@ -1,20 +1,19 @@
 # Fall-Detection-Title (we haven't decided the title name yet).
 
-In this project, I will carry out a further work that have been proposed in [previous project](https://github.com/hoangNguyen210/Fall-Detection-Project-/blob/main/README.md) 
-Due to our work haven't been done yet, I will just update our proposed method as well as our result. Our code will be updated after submiting. 
-<!-- In this repository, you'll be able to find the python programs written in Jupyter Notebook used for the **Fall Detection Title*.  -->
+In this project, I will carry out a further work that have been proposed in [previous project](https://github.com/hoangNguyen210/Fall-Detection-Project-/blob/main/README.md) mainly for camera dataset (C1 and C2).
+. Due to our work haven't been done yet, I would just update our proposed method as well as our result. Our code will be updated after submiting. 
 
 
 ## Acknowledgements
-- This project was also a part of my **Graduate Thesis** subject at university.
-- This project was inspired by 2 of my teachers at HCMUS: Thao. V Ha and Binh Nguyen et. al
-- My main responsibilities in this project were implementing code, visualization, and writing a paper.
+- This project was also a part of my **Graduate Thesis** in my final year at university.
+- This project was inspired by 2 of my teachers at HCMUS: Thao. V Ha and Binh Nguyen.
+- My main responsibilities in this project were implementing code, visualizating our methods as well as results, and writing a paper.
 - Our teacher helped me correct my writing mistakes and submitted the paper.
 
 
 
 ## Project Status
-Project is:  _in progress_. Our goal is to submit to ISI Q1 Journal. Currently, I have finished our experiment proccess and currently writting a paper. 
+Project is:  _in progress_. Our goal is to submit to ISI Q1 Journal. Currently, I have finished our experiment proccess and writting a paper. 
 
 ## System requirement 
 - numpy - version 1.0
@@ -66,17 +65,11 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 <a name="d-p"></a>
 ## Data preprocessing :
 
-
 <a name="proposed-method"></a>
 ## Proposed methods :
-
-
 |![MoE_1](./PICTURE/MoE_1.png)|
 |:--:| 
 | *Mixture of Experts models for C1 dataset* |
-
-
-
 
 |![MoE_2](./PICTURE/MoE_2.png)|
 |:--:| 
