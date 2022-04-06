@@ -75,9 +75,7 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 |:--:| 
 | *Mixture of Experts models for C2 dataset* |
 
-
-
-|![MoE_12](./PICTURE/concat_MoE.png)|
+|![MoE_12](./PICTURE/Concat_MoE.png)|
 |:--:| 
 | *Mixture of Experts models for C1 and C2 dataset* |
 
