@@ -102,7 +102,7 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 |     **C12**  | [Espinosa et al.](https://sci-hub.se/10.1016/j.compbiomed.2019.103520)  <br> [Espinosa et al.](https://sci-hub.se/10.1016/j.compbiomed.2019.103520) <br> [Research 1](https://github.com/hoangNguyen210/Fall-Detection-Project-1) <br>  **Ours** <br> | Concatenate 2D-CNN <br> Concatenate VGG-16 <br> Concatenate 2D-CNN <br> Combining MoE    | 98.81 <br> 27.86 <br>  99.46 <br>  **99.67**  |98.81 <br> 7.76 <br>  99.47 <br>  **99.67**  | 98.81 <br> 27.86 <br>  99.46 <br>  **99.67**  | 98.78 <br> 12.14 <br>  99.46 <br>  **99.67**  |
 
 
-<a name="#cc"></a>
+<a name="cc"></a>
 ## Conclusion and Future Work 
 
 ## Contact
