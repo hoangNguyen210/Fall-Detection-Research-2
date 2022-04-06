@@ -100,14 +100,11 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 | Data | Name | Model  | Acc | WPre | WRec | WF1 |
 | :-----:     | :-:          | :-:           |  :-:           |  :-:           |  :-:           | :-: |
 |     **C1**  | [Martinez et al.](https://www.mdpi.com/1424-8220/19/9/1988) <br> [Espinosa et al.](https://sci-hub.se/10.1016/j.compbiomed.2019.103520) <br> [Chahyati et al.](https://sci-hub.se/10.1109/icacsis51025.2020.9263201)<br> [Ramirez et al.](https://sci-hub.se/10.1109/access.2021.3061626) <br> [Research 1](https://github.com/hoangNguyen210/Fall-Detection-Project-1)   <br>  **Ours** <br> | 2D-CNN <br> 2D-CNN <br> 2D-CNN <br> Random Forest <br> 2D-CNN <br> MoE 2D-CNN     | 78.49 <br> 98.06 <br>  88.25 <br>  99.45 <br> 99.17 <br> **99.49** <br> |74.92 <br> 97.94 <br>  85.22 <br> 96.60 <br> 99.24 <br> **99.48**     | 78.49 <br> 98.06 <br> 88.25 <br> 89.99 <br> 99.12 <br> **99.49** | 76.33 <br> 97.88 <br> 86.57 <br> 92.34 <br> 99.16 <br> **99.48** |
-
-
-
-1| Column 1 Header | Column 2 Header | Column 3 Header |
-2| --------------- | --------------- | --------------- |
-3| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-4| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-5| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 <a name="#cc"></a>
 ## Conclusion and Future Work 
