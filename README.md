@@ -91,9 +91,9 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 
 | Data | Model  | Accuracy  | Precision | Recall | F1-Score |
 | :-----:     | :-:          | :-:           |  :-:           |  :-:           |  :-:           |
-|     **C1**        | MoE-1 <br> MoE-1 + Data Augmentation <br> 3D-CNN1 <br> | 99.48 <br> 99.50   <br>  99.38 <br>     | 99.47 <br> 99.49 <br>  99.38 <br>         | 99.48 <br> 99.50 <br> 99.38 <br> |99.47<br> 99.49 <br> 99.38 <br> |
-| **C1** | CNN | 99.17  | 99.24 | 99.12 | 99.16 |
-| **C2** | CNN | 99.39  | 99.40 | 99.39 | 99.40 |
+|     **C1**  | MoE-1 <br> MoE-1 + Data Augmentation <br> 3D-CNN1 <br> | 99.48 <br> 99.50   <br>  99.38 <br>     | 99.47 <br> 99.49 <br>  99.38 <br>         | 99.48 <br> 99.50 <br> 99.38 <br> |99.47<br> 99.49 <br> 99.38 <br> |
+| **C2**  | MoE-2 <br> MoE-2 + Data Augmentation <br> 3D-CNN2 <br> | 99.59 <br> 99.61   <br>  99.41 <br>     | 99.59 <br> 99.61 <br>  99.41 <br>         | 99.59 <br> 99.61 <br> 99.41 <br> |99.59<br> 99.61 <br> 99.41 <br> |
+| **C12**  | Concatenate MoE <br> Max MoE <br> Average MoE <br> Concatenate MoE + Data Augmentation <br> Average MoE + Data Augmentation <br> Max MoE + Data Augmentation  | 99.62 <br> 99.64 <br> 99.66 <br> 99.62 <br> **99.67** <br> 99.66 <br> 99.44 <br> 99.43 <br> 99.49| 99.62 <br> 99.64 <br> 99.66 <br> 99.62 <br> **99.67** <br> 99.66 <br> 99.44 <br> 99.42 <br> 99.49 | 99.62 <br> 99.64 <br> 99.66 <br> 99.62 <br> **99.67** <br> 99.66 <br> 99.44 <br> 99.43 <br> 99.49 |99.62 <br> 99.64 <br> 99.66 <br> 99.62 <br> **99.67** <br> 99.66 <br> 99.44 <br> 99.43  |
 
 - Comparing with performance using Martinez's model :
 
