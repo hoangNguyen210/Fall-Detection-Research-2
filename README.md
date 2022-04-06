@@ -99,7 +99,7 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 
 | Data | Name | Model  | Acc | WPre | WRec | WF1 |
 | :-----:     | :-:          | :-:           |  :-:           |  :-:           |  :-:           | :-: |
-|     **C1**  | Martinez et al. <br> Espinosa et al. <br> Chahyati et al.<br>  Ramirez et al. <br> Hoang et al. ?????   <br>  **Ours** <br> | 2D-CNN <br> 2D-CNN <br> 2D-CNN <br> Random Forest <br> 2D-CNN <br> MoE 2D-CNN     | 78.49 <br> 98.06 <br>  88.25 <br>  99.45 <br> 99.17 <br> **99.49** <br> |74.92 <br> 97.94 <br>  85.22 <br> 96.60 <br> 99.24 <br> **99.48**     | 78.49 <br> 98.06 <br> 88.25 <br> 89.99 <br> 99.12 <br> **99.49** | 76.33 <br> 97.88 <br> 86.57 <br> 92.34 <br> 99.16 <br> **99.48** |
+|     **C1**  | Martinez et al. <br> Espinosa et al. <br> Chahyati et al.<br>  Ramirez et al. <br> Thao et al.   <br>  **Ours** <br> | 2D-CNN <br> 2D-CNN <br> 2D-CNN <br> Random Forest <br> 2D-CNN <br> MoE 2D-CNN     | 78.49 <br> 98.06 <br>  88.25 <br>  99.45 <br> 99.17 <br> **99.49** <br> |74.92 <br> 97.94 <br>  85.22 <br> 96.60 <br> 99.24 <br> **99.48**     | 78.49 <br> 98.06 <br> 88.25 <br> 89.99 <br> 99.12 <br> **99.49** | 76.33 <br> 97.88 <br> 86.57 <br> 92.34 <br> 99.16 <br> **99.48** |
 
 <a name="#cc"></a>
 ## Conclusion and Future Work 
