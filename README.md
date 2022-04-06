@@ -95,20 +95,11 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 | **C2**  | MoE-2 <br> MoE-2 + Data Augmentation <br> 3D-CNN2 <br> | 99.59 <br> 99.61   <br>  99.41 <br>     | 99.59 <br> 99.61 <br>  99.41 <br>         | 99.59 <br> 99.61 <br> 99.41 <br> |99.59<br> 99.61 <br> 99.41 <br> |
 | **C12**  | Concatenate MoE <br> Max MoE <br> Average MoE <br> Concatenate MoE + Data Augmentation <br> Average MoE + Data Augmentation <br> Max MoE + Data Augmentation <br> Concatenate 3D-CNN <br> Max 3D-CNN <br> Average 3D-CNN  | 99.62 <br> 99.64 <br> 99.66 <br> 99.62 <br> **99.67** <br> 99.66 <br> 99.44 <br> 99.43 <br> 99.49| 99.62 <br> 99.64 <br> 99.66 <br> 99.62 <br> **99.67** <br> 99.66 <br> 99.44 <br> 99.42 <br> 99.49 | 99.62 <br> 99.64 <br> 99.66 <br> 99.62 <br> **99.67** <br> 99.66 <br> 99.44 <br> 99.43 <br> 99.49 |99.62 <br> 99.64 <br> 99.66 <br> 99.62 <br> **99.67** <br> 99.66 <br> 99.44 <br> 99.42 <br> 99.49  |
 
-- Comparing with performance using Martinez's model :
+- Comparing with recent work :
 
-| Data | Model  | Accuracy  | Precision | Recall | F1-Score |
-| :-----:     | :-:          | :-:           |  :-:           |  :-:           |  :-:           |
-|     **S**        | RF <br> SVM <br> KNN <br> MLP | 97.46 <br> 96.96   <br>  97.24 <br> 90.21 <br>     | 97.29 <br> 96.82 <br>  97.07 <br> 98.36   | 98.46 <br> 96.96 <br> 97.24 <br> 90.21 | 97.28 <br> 96.61 <br> 97.05 <br> 88.43 <br> |
-| **C1** | CNN | 78.92 | 84.8 | 70.97 | 76.69 |
-| **C2** | CNN | 88.24  | 90.32 | 86.13 | 86.96 |
-
-- Combining dataset:
-
-| Data | Model  | Accuracy  | Precision | Recall | F1-Score |
-| :-----:     | :-:          | :-:           |  :-:           |  :-:           |  :-:           |
-| **C1 + C2** | Combination | 99.47 | 99.46 | 99.47 | 99.46 |
-| **C2** | Combination | 99.56  | 99.56 | 99.56 |99.55 |
+| Data | Name | Model  | Acc | WPre | WRec | WF1 |
+| :-----:     | :-:          | :-:           |  :-:           |  :-:           |  :-:           | :-: |
+|     **C1**  | Martinez et al. <br> Espinosa et al. <br> Chahyati et al.<br> | Ramirez et al. <br> Hoang et al. ?????   <br>  **Ours** <br>     | 78.49 <br> 98.06 <br>  88.25 <br>  99.45 <br> 99.17 <br> **99.49** <br> |74.92 <br> 97.94 <br>  85.22 <br> 96.60 <br> 99.24 <br> **99.48**     | 78.49 <br> 98.06 <br> 88.25 <br> 89.99 <br> 99.12 <br> **99.49** | 76.33 <br> 97.88 <br> 86.57 <br> 92.34 <br> 99.16 <br> **99.48** |
 
 <a name="#cc"></a>
 ## Conclusion and Future Work 
