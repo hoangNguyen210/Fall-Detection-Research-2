@@ -1,4 +1,4 @@
-# A comprehensive approach on fall detection
+# A more comprehensive approach for fall detection
 
 
 In this project, I will carry out a further work that have been proposed in [previous project](https://github.com/hoangNguyen210/Fall-Detection-Project-/blob/main/README.md) mainly for camera dataset (C1 and C2).
