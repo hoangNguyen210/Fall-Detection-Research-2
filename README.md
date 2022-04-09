@@ -16,13 +16,15 @@ In this project, I will carry out a further work that have been proposed in [pre
 Project is: **_in progress_**. Our goal is to submit to **ISI Q1 Journal**. I have finished our experiment proccess (implement code and visualize result) and currently I am  writting a paper. Other authors help me to revise code as well as check grammar mistakes in our paper. 
 
 ## System requirement 
-- numpy - version 1.0
-- pandas - version 2.0
-- tensorflow - version 3.0
-- keras - version 
-- sklearn - 
+- numpy - version 1.21.5
+- pandas - version 1.3.5
+- cv2 -version 4.1.2
+- sklearn -version 1.0.2
+- tensorflow - version 2.8.0
+- keras - version 2.8.0
 
-**Here is the short form of our paper.** (I changed the pictures of some models for my presentation at Seminar)
+
+**Here is the short form of our paper.** 
 ## Table of Contents
 <!-- * [Acknowledgements](#acknowledgements) -->
 * [Introduction](#introduction)
