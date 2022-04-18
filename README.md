@@ -13,7 +13,7 @@ In this project, I will carry out a further work that have been proposed in [pre
 
 
 ## Project Status
-Project is: **_in progress_**. Our goal is to submit to **ISI Q1 Journal**. I have finished our experiment proccess (implement code and visualize result) and currently I am  writting a paper. Other authors help me to revise code as well as check grammar mistakes in our paper. 
+Project is: **_in progress_**. Our goal is to submit to **ISI Q2 Journal**( or Q1 if possible). I have finished our experiment proccess (implement code and visualize result) and currently I am  writting a paper. Other authors help me to revise code as well as check grammar mistakes in our paper. 
 
 ## System requirement 
 - numpy - version 1.21.5
