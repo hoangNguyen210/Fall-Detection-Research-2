@@ -4,16 +4,6 @@
 In this project, I will carry out a further work that have been proposed in [previous project](https://github.com/hoangNguyen210/Fall-Detection-Project-/blob/main/README.md) mainly for camera dataset (C1 and C2).
 . Due to our work haven't been done yet, I would just update our proposed method as well as our result. Our code will be updated after submiting. 
 
-## Acknowledgements
-- This project was also a part of my **Graduate Thesis** in my final year at university.
-- This project was inspired by 2 of my teachers at HCMUS: Thao. V Ha and Binh Nguyen.
-- My main responsibilities in this project were implementing code, visualizating our methods as well as results, and writing a paper.
-- Our teacher helped me correct my writing mistakes and submitted the paper.
-
-
-
-## Project Status
-Project is: **_in progress_**. Our goal is to submit to **ISI Q2 Journal**( or Q1 if possible). I have finished our experiment proccess (implement code and visualize result) and currently I am  writting a paper. Other authors help me to revise code as well as check grammar mistakes in our paper. 
 
 ## System requirement 
 - numpy - version 1.21.5
@@ -107,6 +97,21 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 <a name="cc"></a>
 ## Conclusion and Future Work 
 
+
+## Acknowledgements
+- This project was also a part of my **Graduate Thesis** in my final year at university.
+- This project was inspired by 2 of my teachers at HCMUS: Thao. V Ha and Binh Nguyen.
+- My main responsibilities in this project were implementing code, visualizating our methods as well as results, and writing a paper.
+- Our teacher helped me correct my writing mistakes and submitted the paper.
+
+
+
+## Project Status
+Project is: **_in progress_**. Our goal is to submit to **ISI Q2 Journal**( or Q1 if possible). I have finished our experiment proccess (implement code and visualize result) and currently I am  writting a paper. Other authors help me to revise code as well as check grammar mistakes in our paper. 
+
 ## Contact
 Created by [hoangng210a@gmail.com] - feel free to contact me!
+
+
+
 
