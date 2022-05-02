@@ -14,6 +14,20 @@ Due to our work haven't been done yet, I would just update our proposed method a
 - tensorflow - version 2.8.0
 - keras - version 2.8.0
 
+## Implementation Description 
+There are 2 main folders : **model** and **data_preparation**. Folder **data_preparation** contain our dataset for this project, you can access it in the below section. Folder **model** include our proposed method for this dataset. 
+1. **data_preparation** :
+  - assasa
+  - dsddsds
+  - dsdsdsds
+2. **model** :
+  - dsdssf
+  - dsdssdds
+
+
+## Dataset 
+
+
 
 **Here is the short form of our paper.** 
 ## Table of Contents
