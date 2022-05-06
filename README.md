@@ -15,16 +15,17 @@ Due to our work haven't been done yet, I would just update our proposed method a
 - keras - version 2.8.0
 
 ## Implementation Description 
-There are 2 main folders : **model** and **data_preparation**. Folder **data_preparation** contain our dataset for this project, you can access it in the below section. Folder **model** include our proposed method for this dataset. 
-1. **data_preparation** :
-  - assasa
-  - dsddsds
-  - dsdsdsds
+There are 2 main folders : **model** and **data_preparation**:
+- Folder **data_preparation** contain our code to process dataset in this project. 
+- Folder **model** include our proposed method for this dataset. 
+1. **data_preparation** : 
+  - 
+  - 
+  - 
 2. **model** :
-  - dsdssf
-  - dsdssdds
-
-
+  - 
+  - 
+  -
 ## Dataset 
 
 
