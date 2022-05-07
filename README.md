@@ -19,9 +19,9 @@ There are 2 main folders : **model** and **data_preparation**:
 - Folder **data_preparation** contain our code to process dataset in this project. 
 - Folder **model** include our proposed method for this dataset. 
 1. [**data_preparation**](https://github.com/hoangNguyen210/Fall-Detection-Research-2/tree/main/data_preparation) : 
-  - 
-  - 
-  - 
+  - [load_raw.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/data_preparation/load_raw.ipynb) : Loading raw dataset of UP-FALL detection dataset 
+  - [load_background.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/data_preparation/load_background.ipynb) : Loading raw dataset of UP-FALL detection dataset 
+  - [load_background.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/data_preparation/load_background.ipynb) : Loading raw dataset of UP-FALL detection dataset 
 2. [**model**](https://github.com/hoangNguyen210/Fall-Detection-Research-2/tree/main/model) :
   - 
   - 
