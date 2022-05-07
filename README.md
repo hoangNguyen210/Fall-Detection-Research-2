@@ -1,6 +1,11 @@
 # A more comprehensive approach for fall detection
 
-In this project, We will carry out a further work that have been proposed in [previous project](https://github.com/hoangNguyen210/Fall-Detection-Project-/blob/main/README.md) mainly for camera dataset (C1 and C2).
+
+In this project, I will carry out a further work that have been proposed in [previous project](https://github.com/hoangNguyen210/Fall-Detection-Project-/blob/main/README.md) mainly for camera dataset (C1 and C2).
+
+Due to our work haven't been done yet, I would just update our proposed method as well as our result. Our code will be updated after submiting. 
+
+
 ## System requirement 
 - numpy - version 1.21.5
 - pandas - version 1.3.5
@@ -14,13 +19,13 @@ There are 2 main folders : **model** and **data_preparation**:
 - Folder **data_preparation** contain our code to process dataset in this project. 
 - Folder **model** include our proposed method for this dataset. 
 1. [**data_preparation**](https://github.com/hoangNguyen210/Fall-Detection-Research-2/tree/main/data_preparation) : 
-  - [load_raw.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/data_preparation/load_raw.ipynb) : Loading raw dataset of UP-FALL detection dataset 
-  - [load_background.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/data_preparation/load_background.ipynb) : Loading raw dataset of UP-FALL detection dataset 
-  - [load_background.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/data_preparation/load_background.ipynb) : Loading raw dataset of UP-FALL detection dataset 
+  - [load_raw.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/data_preparation/load_raw.ipynb) : This file loads raw dataset of UP-FALL detection dataset.
+  - [load_background.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/data_preparation/load_background.ipynb) : This file extracts foreground and background from UP-FALL Detection dataset using MOD-NET model. These foreground dataset will be use as a part of augmentating our training set.
+  - [load_clip.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/data_preparation/load_clip.ipynb) : This file creates video frame dataset by combining images with ascending timestamp order. 
 2. [**model**](https://github.com/hoangNguyen210/Fall-Detection-Research-2/tree/main/model) :
+  - [Raw_data.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/model/Raw_data.ipynb) : This file uses our proposed method for raw dataset.
+  - [Augment_data.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/model/Raw_data.ipynb) : This file uses our proposed method for augmentating dataset.
   - 
-  - 
-  -
 ## Dataset 
 
 
