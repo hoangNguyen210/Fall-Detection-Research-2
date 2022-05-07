@@ -1,11 +1,5 @@
 # A more comprehensive approach for fall detection
-
-
 In this project, I will carry out a further work that have been proposed in [previous project](https://github.com/hoangNguyen210/Fall-Detection-Project-/blob/main/README.md) mainly for camera dataset (C1 and C2).
-
-Due to our work haven't been done yet, I would just update our proposed method as well as our result. Our code will be updated after submiting. 
-
-
 ## System requirement 
 - numpy - version 1.21.5
 - pandas - version 1.3.5
@@ -25,10 +19,12 @@ There are 2 main folders : **model** and **data_preparation**:
 2. [**model**](https://github.com/hoangNguyen210/Fall-Detection-Research-2/tree/main/model) :
   - [Raw_data.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/model/Raw_data.ipynb) : This file uses our proposed method for raw dataset.
   - [Augment_data.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/model/Raw_data.ipynb) : This file uses our proposed method for augmentating dataset.
-  - 
-## Dataset 
+  - [3D-data.ipynb](https://github.com/hoangNguyen210/Fall-Detection-Research-2/blob/main/model/3D_data.ipynb) : This file uses our proposed method for video frame dataset.
+## Dataset :
+  - You can access our loading dataset in this [link](https://drive.google.com/drive/folders/1J0ufMF8Utao2hz1rVr6X8RDLCc6psjcX?usp=sharing)
 
-
+## Pretrained model :
+ - Here is some of our pretrained weight after training these dataset, you can examine it in this [link](https://drive.google.com/drive/folders/1NLDSV2Sf7zJN_H6LlxXY2B-nO4WC1OVl?usp=sharing)
 
 **Here is the short form of our paper.** 
 ## Table of Contents
