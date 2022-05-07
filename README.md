@@ -18,11 +18,11 @@ Due to our work haven't been done yet, I would just update our proposed method a
 There are 2 main folders : **model** and **data_preparation**:
 - Folder **data_preparation** contain our code to process dataset in this project. 
 - Folder **model** include our proposed method for this dataset. 
-1. **data_preparation** : 
+1. [**data_preparation**](https://github.com/hoangNguyen210/Fall-Detection-Research-2/tree/main/data_preparation) : 
   - 
   - 
   - 
-2. **model** :
+2. [**model**](https://github.com/hoangNguyen210/Fall-Detection-Research-2/tree/main/model) :
   - 
   - 
   -
