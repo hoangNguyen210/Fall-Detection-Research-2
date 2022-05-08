@@ -1,4 +1,4 @@
-# A more comprehensive approach for fall detection
+# Fall Detection Using Mixtures of Convolutional Neural Networks 
 In this project, I will carry out a further work that have been proposed in [previous project](https://github.com/hoangNguyen210/Fall-Detection-Project-/blob/main/README.md) mainly for camera dataset (C1 and C2).
 ## System requirement 
 - numpy - version 1.21.5
