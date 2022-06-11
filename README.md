@@ -71,17 +71,25 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 
 <a name="proposed-method"></a>
 ## Proposed methods :
+
+### Mixture of Experts : 
 |![MoE_1](./PICTURE/MoE_1.png)|
 |:--:| 
-| *Mixture of Experts models for C1 dataset* |
+| *Mixture of Experts models for C1 dataset (MoE-1)* |
 
 |![MoE_2](./PICTURE/MoE_2.png)|
 |:--:| 
-| *Mixture of Experts models for C2 dataset* |
+| *Mixture of Experts models for C2 dataset (MoE-2)* |
 
 |![MoE_12](./PICTURE/Concat_MoE.png)|
 |:--:| 
-| *Mixture of Experts models for C1 and C2 dataset* |
+| *Mixture of Experts models for C1 and C2 dataset (M-MoE, C-MoE, A-MoE)* |
+
+### Data Augmentation :
+
+
+### 3D-CNN : 
+
 
 <a name="result"></a>
 ## Result 
