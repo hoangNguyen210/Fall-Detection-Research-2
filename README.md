@@ -90,6 +90,15 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 
 ### 3D-CNN : 
 
+|![3D-CNN](./PICTURE/3D-CNN.png)|
+|:--:| 
+| *3D CNN for C1 and C2 dataset (3DCNN-1, 3DCNN-2)* |
+
+|![CC-3DCNN](./PICTURE/CC-3DCNN.png)|
+|:--:| 
+| *Combining 3D-CNN models for each dataset (A-3DCNN, M-3DCNN, C-3DCNN)* |
+
+
 
 <a name="result"></a>
 ## Result 
