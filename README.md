@@ -138,8 +138,21 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 ## Project Status
 Project is: **_in progress_**. Our goal is to submit to **ISI Q2 Journal**( or Q1 if possible). I have finished our experiment proccess (implement code and visualize result) and currently I am  writting a paper. Other authors help me to revise code as well as check grammar mistakes in our paper. 
  -->
+
+
 ## Contact
-Created by [hoangng210a@gmail.com] - feel free to contact me!
+- Nguyen Thanh Binh  (University of Science Ho Chi Minh city, ngtbinh@hcmus.edu.vn)
+- Nguyen Minh Hoang (University of Science Ho Chi Minh city, hoangng210a@gmail.com)
+
+## References
+<pre><code> @misc{ung2021efficient,
+      title={An Effective Leaf Recognition Using  Convolutional Neural Networks Based  Features}, 
+      author={Hoang M. Nguyen and Thao V. Ha and Son H. Thanh and Binh T. Nguyen},
+      year={2022},
+      eprint={},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}</code></pre>
 
 
 
