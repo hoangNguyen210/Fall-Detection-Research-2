@@ -145,8 +145,8 @@ Project is: **_in progress_**. Our goal is to submit to **ISI Q2 Journal**( or Q
 - Nguyen Minh Hoang (University of Science Ho Chi Minh city, hoangng210a@gmail.com)
 
 ## References
-<pre><code> @misc{ung2021efficient,
-      title={An Effective Leaf Recognition Using  Convolutional Neural Networks Based  Features}, 
+<pre><code> @misc{hoang2022fall,
+      title={Fall Detection Using Mixtures of Convolutional Neural Networks}, 
       author={Hoang M. Nguyen and Thao V. Ha and Son H. Thanh and Binh T. Nguyen},
       year={2022},
       eprint={},
