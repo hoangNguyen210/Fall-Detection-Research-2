@@ -29,17 +29,20 @@ There are 2 main folders : **model** and **data_preparation**:
 **Here is the short form of our paper.** 
 ## Table of Contents
 <!-- * [Acknowledgements](#acknowledgements) -->
-* [Introduction](#introduction)
+<!-- * [Introduction](#introduction)
 * [General Info](#general-information)
 * [Dataset description](#dataset-description)
 * [Data preprocessing](#d-p)
-* [Proposed method](#proposed-method)
+* [Proposed method](#proposed-method) -->
 * [Result](#result)
-* [Conclusion and Furture Work](#cc)
+<!-- * [Conclusion and Furture Work](#cc) -->
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
 
-<a name="introduction"></a>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<!-- <a name="introduction"></a>
 ## Introduction
 <a name="general-information"></a>
 ## General Information
@@ -96,9 +99,10 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 
 |![CC-3DCNN](./PICTURE/CC-3DCNN.png)|
 |:--:| 
-| *Combining 3D-CNN models for each dataset (A-3DCNN, M-3DCNN, C-3DCNN)* |
+| *Combining 3D-CNN models for each dataset (A-3DCNN, M-3DCNN, C-3DCNN)* | -->
 
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <a name="result"></a>
 ## Result 
