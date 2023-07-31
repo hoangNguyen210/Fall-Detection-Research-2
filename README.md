@@ -140,8 +140,8 @@ You can read more about this dataset at this [paper](https://www.mdpi.com/1424-8
 
 
 ## Project Status
-Project is: **_in progress_**. Our goal is to submit to **ISI Q2 Journal**( or Q1 if possible). I have finished our experiment proccess (implement code and visualize result) and currently I am  writting a paper. Other authors help me to revise code as well as check grammar mistakes in our paper. 
- -->
+
+Project is: **_in progress_**. Our goal is to submit to **ISI Q2 Journal**( or Q1 if possible). I have finished our experiment process (implement code and visualize result) and currently, I am writing a paper. Other authors help me to revise the code as well as check grammar mistakes in our paper. 
 
 
 ## Contact
@@ -149,14 +149,16 @@ Project is: **_in progress_**. Our goal is to submit to **ISI Q2 Journal**( or Q
 - Nguyen Minh Hoang (University of Science Ho Chi Minh city, hoangng210a@gmail.com)
 
 ## References
-<pre><code> @misc{hoang2022fall,
-      title={Fall Detection Using Mixtures of Convolutional Neural Networks}, 
-      author={Hoang M. Nguyen and Thao V. Ha and Son H. Thanh and Binh T. Nguyen},
-      year={2022},
-      eprint={},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+<pre><code> @article{ha2023fall,
+  title={Fall detection using mixtures of convolutional neural networks},
+  author={Ha, Thao V and Nguyen, Hoang M and Thanh, Son H and Nguyen, Binh T},
+  journal={Multimedia Tools and Applications},
+  pages={1--28},
+  year={2023},
+  publisher={Springer}
 }</code></pre>
+
+
 
 
 
